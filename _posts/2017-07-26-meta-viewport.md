@@ -22,7 +22,7 @@ tags:
   - having the confidence
 - To communicate your "persuasion" in writing
 
-![viewport5]({{ site.url }}/assets/images/aug.png)
+![viewport5]({{ "/assets/images/aug.png" | absolute_url }})
 
 ## Giving Recommendations and Opinions
 ### Subject + should/shouldn’t/ need to + do something/ be done
