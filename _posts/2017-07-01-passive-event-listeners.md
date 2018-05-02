@@ -10,10 +10,10 @@ tags:
   - Life
 ---
 # Poster 1
-![viewport5](../assets/images/poster1.jpg)
+![viewport5](../assets/images/poster1.jpg){:class="img-responsive"}
 # Poster 2
-![viewport5](../assets/images/poster2.jpg)
+![viewport5](../assets/images/poster2.jpg){:class="img-responsive"}
 # Poster 3
-![viewport5](../assets/images/poster3.jpg)
+![viewport5](../assets/images/poster3.jpg){:class="img-responsive"}
 # Poster 4
-![viewport5](../assets/images/poster4.jpg)
+![viewport5](../assets/images/poster4.jpg){:class="img-responsive"}
